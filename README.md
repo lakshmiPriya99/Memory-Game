@@ -2,7 +2,7 @@
 This project has been completed as a part of the FrontEnd Nanodegree Program requirements.
 
 ## Goal of the Game
-Uncover all the cards with the few possible moves with a 3 star rating in a shortest time.
+Uncover all the cards with least possible moves winning a 3 star rating in the shortest time.
 
 ## Instructions to play
 * The memory game consists of cards, all of them having symbols. 
